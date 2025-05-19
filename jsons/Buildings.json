@@ -35,7 +35,7 @@
 		"uniques": [
 			"[+2 Production] from [Water resource] tiles [in this city]",
 			"Connects trade routes over water","Must be next to [Coast]",
-			"New [Military] units start with [60] Experience [in this city]", "Destroyed when the city is captured", "[+20]% Production when constructing [Water] units [in this city]"],
+			"New [Military] units start with [120] Experience [in this city]", "Destroyed when the city is captured", "[+20]% Production when constructing [Water] units [in this city]"],
 		"requiredTech": "Compass"
 	},
 	{
@@ -90,7 +90,7 @@
 		"uniqueTo": "Blacklight",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["New [Military] units start with [60] Experience [in this city]", "Destroyed when the city is captured", "[+20]% Production when constructing [Land] units [in this city]" ],
+		"uniques": ["New [Military] units start with [120] Experience [in this city]", "Destroyed when the city is captured", "[+20]% Production when constructing [Land] units [in this city]" ],
 		"requiredTech": "Bronze Working"
 	},
 	{
@@ -116,7 +116,7 @@
 		"production": 10,
 		"faith": 10,
 		"happiness": 10,
-		"uniques": ["New [Military] units start with [120] Experience [in this city]", "Destroyed when the city is captured", "[+1 Faith] from each Trade Route"],
+		"uniques": ["New [Military] units start with [180] Experience [in this city]", "Destroyed when the city is captured", "[+1 Faith] from each Trade Route"],
 		"requiredTech": "Guilds"
 	}
 ]
