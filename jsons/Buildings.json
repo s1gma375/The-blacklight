@@ -32,7 +32,8 @@
 		"cost": 120,
 		"maintenance": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["[+2 Production] from [Water resource] tiles [in this city]",
+		"uniques": [
+			"[+2 Production] from [Water resource] tiles [in this city]",
 			"Connects trade routes over water","Must be next to [Coast]",
 			"New [Military] units start with [60] Experience [in this city]", "Destroyed when the city is captured", "[+20]% Production when constructing [Water] units [in this city]"],
 		"requiredTech": "Compass"
@@ -47,7 +48,11 @@
 		"science": 2,
 		"production": 2,
 		"maintenance": 1,
-		"uniques": ["[+2 Food] from [Deer] tiles [in this city]",
+		"uniques": [
+		"[+2 Food] from [Grassland] tiles [in this city]",
+		"[+2 Food] from [Tundra] tiles [in this city]",
+		"[+1 Food] from [Snow] tiles [in this city]",
+		"[+2 Food] from [Deer] tiles [in this city]",
 		"[+2 Food] from [Bananas] tiles [in this city]",
 		"[+3 Food] from [Wheat] tiles [in this city]",
 		"Provides 1 extra copy of each improved luxury resource near this City"],
