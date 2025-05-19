@@ -22,7 +22,8 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "The choosen one",
 		"uniques": 
-		["Free [Worker] appears <upon discovering [Pottery] technology>", 
+		[
+		"Free [Worker] appears <upon discovering [Pottery] technology>", 
 		"Free [Great Scientist] appears <upon discovering [Writing] technology>", 
 		"Free [Great Prophet] appears <upon discovering [Calendar] technology>",
 		"Free [Great Engineer] appears <upon discovering [Pottery] technology>",
@@ -30,6 +31,7 @@
 		"Free [Great General] appears <upon discovering [Bronze Working] technology>",
 		"Free [Great Artist] appears <upon discovering [Construction] technology>",
 		"Free [Great Merchant] appears <upon discovering [Currency] technology>",
+		"New [Military] units start with [120] Experience [in the capital]",
 		"[-75]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate",
 		"City-State territory always counts as friendly territory",
 		"[+50]% Production when constructing [All] wonders [in all cities]",
